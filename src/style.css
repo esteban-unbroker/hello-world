@@ -5,7 +5,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: system-ui, sans-serif;
-  background: #e00000;
+  background: linear-gradient(160deg, #1e90ff 0%, #000000 100%);
   color: #f0f6fc;
 }
 
